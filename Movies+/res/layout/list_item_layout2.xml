@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
-
+	<!-- algo muy interesante -->
     <ImageView
         android:id="@+id/imgesPrimary"
         android:layout_width="78dp"
