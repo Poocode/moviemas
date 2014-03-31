@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/imgesPrimary"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:contentDescription="@string/imagensplas"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/titleImages"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="#AA000000"
+        android:padding="5dip"
+        android:textSize="12sp"
+        android:text="@string/imagensplas"
+        android:textColor="#ffffffff" />
+    
+</FrameLayout>

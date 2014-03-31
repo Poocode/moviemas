@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Movies + "</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imagensplas">Imagen de inicio de la app</string>
+	<string name="paginacion">Deslizar</string>
+    <string name="crear">Crear cuenta</string>
+    <string name="ingresar">Ingresar</string>
+	<string name="ingresargoogle">Ingresar con Google</string>
+	<string name="ingresarfacebook">Ingresar con Facebook</string>
+	<string name="nombreUsuario">Nombres</string>
+	<string name="apellidoUsuario">Apellidos</string>
+	<string name="email">E-mail</string>
+	<string name="telefono">Telefono o celular</string>
+	<string name="password">Password</string>
+</resources>
