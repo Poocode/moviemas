@@ -16,7 +16,7 @@ public class AdapterCategorias extends BaseAdapter {
 
 	protected Activity activity;
 	protected ArrayList<CategoriasGet> items;
-	
+	//fffff
 	public AdapterCategorias(Activity activity, ArrayList<CategoriasGet> items) {
         this.activity = activity;
         this.items = items;
