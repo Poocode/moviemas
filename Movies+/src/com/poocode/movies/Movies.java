@@ -31,7 +31,7 @@ import android.widget.TextView.BufferType;
 
 
 public class Movies extends Activity implements android.widget.AdapterView.OnItemClickListener{
-
+	//Probando
 	private ViewPager viewPager;
 	private RelativeLayout page1;
 	private LinearLayout page2;
